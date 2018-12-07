@@ -8,7 +8,6 @@ var imagesPerRow = 4;
 //function called after the page loads
 function initialize(){
     grid = document.getElementById('grid');
-    console.log(document.getElementById('searchButton'));
     document.getElementById('searchButton').onclick = search;
     populateGrid('Brazil');
 
