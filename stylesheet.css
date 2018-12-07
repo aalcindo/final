@@ -1,0 +1,39 @@
+head{
+    background:rgba(00,00,00,.95);
+    font-size: 12pt;
+    border: 5px; color:rgb(249,255,253);
+    padding: 30px;
+    border-bottom: 5px; color:rgb(249,255,253);
+    font-family: sans-serif;
+}
+
+body{
+color:white;
+background:rgba(00,00,00,.75);
+font-family: cursive;
+background-image: url("foliageGreen.jpg");  
+}
+
+h1{
+background:rgba(00,00,00,.75);
+font-family:cursive;
+color:white;
+}
+
+p{
+color:white;
+background:rgba(00,00,00,.75)
+}
+
+ul{
+color:white;
+background:rgba(00,00,00,.55)
+}
+
+img{
+max-width: 100%;
+height: auto;
+display: block;
+margin-left:auto;
+margin-right: auto;
+}
