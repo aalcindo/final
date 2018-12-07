@@ -28,7 +28,6 @@ function search(){
 }
 
 function populateGrid(country){
-    // country=country.toUpperCase();
     //update the title for the grid
     document.getElementById('gridTitle').innerText=country;
     //clear grid
